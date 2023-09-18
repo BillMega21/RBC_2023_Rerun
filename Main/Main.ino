@@ -5,7 +5,8 @@
 #include <libMazeUltra.h>
 #include <libMazeMotor.h>
 #include <libMazeColour.h>
-#include <libMazeNavigate.h>
+//#include <libMazeNavigate.h>
+#include "libraries/libMazeNavigate.h"
 
 // --------------------------------------------------------------------------
 // MAZE CONSTRAINTS
