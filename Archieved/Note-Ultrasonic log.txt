@@ -1,0 +1,29 @@
+run1 - s:
+Left: 8.00; Right: 11.00
+Left: 13.00; Right: 10.00
+Left: 13.00; Right: 13.00
+Left: 13.00; Right: 10.00
+Left: 13.00; Right: 12.00
+Left: 13.00; Right: 10.00
+Left: 12.00; Right: 10.00
+Left: 12.00; Right: 10.00
+Left: 12.00; Right: 9.00
+Left: 12.00; Right: 10.00
+Left: 12.00; Right: 12.00
+Left: 14.00; Right: 6.00
+Left: 16.00; Right: 5.00
+Left: 27.00; Right: 10.00
+Left: 28.00; Right: 10.00
+Left: 20.00; Right: 11.00
+Left: 43.00; Right: 12.00
+Left: 11.00; Right: 12.00
+Left: 15.00; Right: 14.00
+Left: 16.00; Right: 16.00
+Left: 12.00; Right: 23.00
+Left: 9.00; Right: 6.00
+Left: 0.00; Right: 0.00
+Left: 0.00; Right: 17.00
+Left: 10.00; Right: 0.00
+Left: 0.00; Right: 6.00
+
+run2:
