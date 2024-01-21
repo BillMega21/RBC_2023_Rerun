@@ -1,0 +1,34 @@
+
+    // Journey to the destination.
+    // moveForward();  // For 3 blocks.
+    // delay(3000);
+    // moveLeft();
+    // moveForward();  // For 3 blocks.
+    // delay(3000);
+    // moveLeft();
+    // moveForward();  // For 2 blocks.
+    // delay(2000);
+    // moveLeft();
+    // moveForward();  // For 2 blocks.
+    // delay(2000)
+    // moveRight;
+    // moveForward();  // For 1 block.
+    // delay(1000);
+    // blinkGoal();
+    // rotate180();    // Rotate around.
+
+    // // Journey back to the start.
+    // moveForward();  // For 1 block.
+    // delay(1000);
+    // moveLeft();
+    // moveForward();  // For 2 blocks.
+    // delay(2000);
+    // moveRight();
+    // moveForward();  // For 2 blocks.
+    // delay(2000);
+    // moveRight();
+    // moveForward();  // For 3 blocks.
+    // delay(3000);
+    // moveRight();
+    // moveForward();  // For 3 blocks.
+    // delay(3000)

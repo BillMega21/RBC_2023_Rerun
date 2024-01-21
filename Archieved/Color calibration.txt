@@ -1,0 +1,9 @@
+
+nothing: 	R= 71  G= 120  B= 126 
+red			R= 25  G= 97  B= 72  	
+blue		R= 87  G= 57  B= 31  
+yellow		R= 18  G= 30  B= 51
+purple		R= 49  G= 81  B= 41  
+
+calibrated wih black max - white min
+	
