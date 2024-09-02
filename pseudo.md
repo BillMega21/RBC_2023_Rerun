@@ -1,33 +1,33 @@
-    1. Traverse all, save shortcut along the way, stop at DESTINATION
-        while (currentColour == red and currentCoordinate != startCoordinate){
-        	
-            // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-            1. Identify current state()
-            // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-            	- update current coordinate
-                	- 
-                - update current distance
-                - update current color
-                - update explored cells
-                - update special cells
-            
-            
-            // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-            2. 	Plan_Next_step & orientate()
-            // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                - Use ultrasonic to find free path
-                - Direct robot to free path
-          
+# 1. Traverse all, save shortcut along the way, stop at DESTINATION
+while (currentColour == red and currentCoordinate != startCoordinate){
+	
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    1. Identify current state()
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	- update current coordinate
+		- 
+	- update current distance
+	- update current color
+	- update explored cells
+	- update special cells
+    
+    
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    2. 	Plan_Next_step & orientate()
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	- Use ultrasonic to find free path
+	- Direct robot to free path
+  
 
-          	// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-            3. Move()
-            // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                - Move FORWARD 1 step
-                	- Feedback loop to adjust two wheels' speed (HARD TO CALIBRATE - LAST STUFF)
-                    	* Check distance from 2 sides
-                        * Go to the one further from the wall
-                    
-        }
+	// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    3. Move()
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	- Move FORWARD 1 step
+		- Feedback loop to adjust two wheels' speed (HARD TO CALIBRATE - LAST STUFF)
+		* Check distance from 2 sides
+		* Go to the one further from the wall
+	    
+}
 
     2. Flash the LED 3 time, 1-1s
 
